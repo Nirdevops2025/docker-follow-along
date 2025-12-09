@@ -1,1 +1,1 @@
-Hi This is Nir cohen
+print("Hi This is Nir cohen")
